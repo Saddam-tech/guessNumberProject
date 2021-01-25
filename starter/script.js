@@ -87,3 +87,5 @@ const y = function () {
 
 document.querySelector('.check').addEventListener('click', x);
 document.querySelector('.again').addEventListener('click', y);
+
+// this is the end of the project!
